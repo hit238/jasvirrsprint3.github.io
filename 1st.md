@@ -1,0 +1,1 @@
+.container{ 	 	border: 4px solid darkgrey; 	border-radius: 25px; 	background-color:azure; 	max-width: 350px; 	text-align: center; 	margin:auto; 	float: none; 	}
