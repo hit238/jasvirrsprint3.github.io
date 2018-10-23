@@ -1,0 +1,4 @@
+#Fri Oct 12 02:33:43 ACST 2018
+base.0=C\:\\Users\\jasvi\\QuizApp238\\QuizApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
